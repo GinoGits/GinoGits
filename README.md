@@ -41,6 +41,6 @@
   <br>
   <h2>🛸 Rick and Morty Quote</h2>
   <br>
-  <p>"Computers are like old testament gods: lots of rules and no mercy."<br>- Morty Smith</p>
+  <p>"Sometimes science is a lot more art than science. A lot of people don't get that."<br>- Rick</p>
   <br>
 </div>
