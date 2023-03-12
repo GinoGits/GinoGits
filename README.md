@@ -30,11 +30,7 @@
   </a>
   <br>
   <br>
-  <a href="https://github.com/GinoGits">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GinoGits&layout=compact&theme=dracula" alt="GinoGit's Top Languages" />
-  </a>
-  <br>
-  <br>
+  
 </div>
 <!-- Rick and Morty Quote -->
 <div align="center">
